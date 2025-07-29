@@ -11,7 +11,7 @@
   "quality": "HD",
   "baseUrl": "https://ogomovies.com.pk/",
   "searchBaseUrl": "https://ogomovies.com.pk/?s=%s",
-  "scriptUrl": "https://example.com/ogomovies.js",
+  "scriptUrl": "https://raw.githubusercontent.com/InfernoWolf19/Ogomovies/refs/heads/main/ogomovies.js",
   "asyncJS": true,
   "type": "movies"
 }
