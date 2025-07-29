@@ -1,0 +1,17 @@
+{
+  "sourceName": "OgoMovies",
+  "iconUrl": "https://ogomovies.com.pk/wp-content/uploads/2024/02/fav.png",
+  "author": {
+    "name": "ModuleCreator",
+    "icon": "https://ogomovies.com.pk/wp-content/uploads/2024/02/fav.png"
+  },
+  "version": "1.0.0",
+  "language": "Multiple",
+  "streamType": "HLS",
+  "quality": "HD",
+  "baseUrl": "https://ogomovies.com.pk/",
+  "searchBaseUrl": "https://ogomovies.com.pk/?s=%s",
+  "scriptUrl": "https://example.com/ogomovies.js",
+  "asyncJS": true,
+  "type": "movies"
+}
